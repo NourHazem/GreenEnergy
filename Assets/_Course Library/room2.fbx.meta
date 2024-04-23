@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 5a2e4e0f9099d4c069939607aa703687
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -3410134085805178716
+    second: big_chair|big_chair001|Take 001|BaseLayer
+  - first:
+      74: 1233596530988016143
+    second: big_chair|big_chair|Take 001|BaseLayer
+  - first:
+      74: 2145585786885097314
+    second: big_chair|C001|Take 001|BaseLayer
+  - first:
+      74: -3706151878977468792
+    second: big_chair|C002|Take 001|BaseLayer
+  - first:
+      74: 8794693849726062613
+    second: big_chair|C003|Take 001|BaseLayer
+  - first:
+      74: -4189064143403435282
+    second: big_chair|C004|Take 001|BaseLayer
+  - first:
+      74: -2257048377600653545
+    second: big_chair|C005|Take 001|BaseLayer
+  - first:
+      74: 4730889273541314180
+    second: big_chair|C006|Take 001|BaseLayer
+  - first:
+      74: 2238143935727131226
+    second: big_chair|VRayIES_Wall_Small|Take 001|BaseLayer
+  - first:
+      74: -3158183959740821888
+    second: big_chair|VRaySun001|Take 001|BaseLayer
+  - first:
+      74: -991716779679861486
+    second: big_chair001|big_chair001|Take 001|BaseLayer
+  - first:
+      74: -4411138573035285724
+    second: big_chair001|big_chair|Take 001|BaseLayer
+  - first:
+      74: -6392127963988843263
+    second: big_chair001|C001|Take 001|BaseLayer
+  - first:
+      74: 7902631600966707336
+    second: big_chair001|C002|Take 001|BaseLayer
+  - first:
+      74: 436708771700494552
+    second: big_chair001|C003|Take 001|BaseLayer
+  - first:
+      74: 4736493502340989314
+    second: big_chair001|C004|Take 001|BaseLayer
+  - first:
+      74: 2120993919478853187
+    second: big_chair001|C005|Take 001|BaseLayer
+  - first:
+      74: 2698691223833142336
+    second: big_chair001|C006|Take 001|BaseLayer
+  - first:
+      74: 9013278236655495273
+    second: big_chair001|VRayIES_Wall_Small|Take 001|BaseLayer
+  - first:
+      74: 4210316486661881193
+    second: big_chair001|VRaySun001|Take 001|BaseLayer
+  - first:
+      74: 8405452647557936214
+    second: C001|big_chair001|Take 001|BaseLayer
+  - first:
+      74: 8342463876186976306
+    second: C001|big_chair|Take 001|BaseLayer
+  - first:
+      74: -4815165380461963027
+    second: C001|C001|Take 001|BaseLayer
+  - first:
+      74: -6796856332842444878
+    second: C001|C002|Take 001|BaseLayer
+  - first:
+      74: 2994775612912796231
+    second: C001|C003|Take 001|BaseLayer
+  - first:
+      74: -5920014671727434262
+    second: C001|C004|Take 001|BaseLayer
+  - first:
+      74: 8142337599684707267
+    second: C001|C005|Take 001|BaseLayer
+  - first:
+      74: 3977906483222761990
+    second: C001|C006|Take 001|BaseLayer
+  - first:
+      74: -3869969059001189699
+    second: C001|VRayIES_Wall_Small|Take 001|BaseLayer
+  - first:
+      74: -5090249358842080214
+    second: C001|VRaySun001|Take 001|BaseLayer
+  - first:
+      74: 4532149884135624075
+    second: C002|big_chair001|Take 001|BaseLayer
+  - first:
+      74: 6189027882053181555
+    second: C002|big_chair|Take 001|BaseLayer
+  - first:
+      74: -6111456138043323046
+    second: C002|C001|Take 001|BaseLayer
+  - first:
+      74: -5482201674889478382
+    second: C002|C002|Take 001|BaseLayer
+  - first:
+      74: 7924996426376364459
+    second: C002|C003|Take 001|BaseLayer
+  - first:
+      74: -6126182064973087919
+    second: C002|C004|Take 001|BaseLayer
+  - first:
+      74: -5037728198540513866
+    second: C002|C005|Take 001|BaseLayer
+  - first:
+      74: 846268660193362394
+    second: C002|C006|Take 001|BaseLayer
+  - first:
+      74: 589615986861550607
+    second: C002|VRayIES_Wall_Small|Take 001|BaseLayer
+  - first:
+      74: 8296723673498722913
+    second: C002|VRaySun001|Take 001|BaseLayer
+  - first:
+      74: 6727853719921348330
+    second: VRaySun001|big_chair001|Take 001|BaseLayer
+  - first:
+      74: -5835600443555353940
+    second: VRaySun001|big_chair|Take 001|BaseLayer
+  - first:
+      74: -119625981767543973
+    second: VRaySun001|C001|Take 001|BaseLayer
+  - first:
+      74: 8599905541179132195
+    second: VRaySun001|C002|Take 001|BaseLayer
+  - first:
+      74: 1274091281083544465
+    second: VRaySun001|C003|Take 001|BaseLayer
+  - first:
+      74: -1463030404392495338
+    second: VRaySun001|C004|Take 001|BaseLayer
+  - first:
+      74: -6317330890151666781
+    second: VRaySun001|C005|Take 001|BaseLayer
+  - first:
+      74: 3311300560354855848
+    second: VRaySun001|C006|Take 001|BaseLayer
+  - first:
+      74: 4113196649327528986
+    second: VRaySun001|VRayIES_Wall_Small|Take 001|BaseLayer
+  - first:
+      74: 5182124122467180023
+    second: VRaySun001|VRaySun001|Take 001|BaseLayer
+  - first:
+      74: 1546655774880817763
+    second: C003|big_chair001|Take 001|BaseLayer
+  - first:
+      74: 2949471206628898965
+    second: C003|big_chair|Take 001|BaseLayer
+  - first:
+      74: 7018041059678545544
+    second: C003|C001|Take 001|BaseLayer
+  - first:
+      74: 6588058336910768361
+    second: C003|C002|Take 001|BaseLayer
+  - first:
+      74: 2206036037438950639
+    second: C003|C003|Take 001|BaseLayer
+  - first:
+      74: 6256198288543177271
+    second: C003|C004|Take 001|BaseLayer
+  - first:
+      74: 7774428685735610970
+    second: C003|C005|Take 001|BaseLayer
+  - first:
+      74: -7465872828519778217
+    second: C003|C006|Take 001|BaseLayer
+  - first:
+      74: -5767310915076448636
+    second: C003|VRayIES_Wall_Small|Take 001|BaseLayer
+  - first:
+      74: -6214936146543083963
+    second: C003|VRaySun001|Take 001|BaseLayer
+  - first:
+      74: -6867562342761560182
+    second: C004|big_chair001|Take 001|BaseLayer
+  - first:
+      74: -3381224789109450818
+    second: C004|big_chair|Take 001|BaseLayer
+  - first:
+      74: -27652646886116032
+    second: C004|C001|Take 001|BaseLayer
+  - first:
+      74: -1118377372297721443
+    second: C004|C002|Take 001|BaseLayer
+  - first:
+      74: -2255282795369149812
+    second: C004|C003|Take 001|BaseLayer
+  - first:
+      74: -1425250564686988223
+    second: C004|C004|Take 001|BaseLayer
+  - first:
+      74: 7383331601009815807
+    second: C004|C005|Take 001|BaseLayer
+  - first:
+      74: 8430002888389612262
+    second: C004|C006|Take 001|BaseLayer
+  - first:
+      74: 5811621295737425086
+    second: C004|VRayIES_Wall_Small|Take 001|BaseLayer
+  - first:
+      74: -3692672679688358887
+    second: C004|VRaySun001|Take 001|BaseLayer
+  - first:
+      74: -5534448007796054696
+    second: C005|big_chair001|Take 001|BaseLayer
+  - first:
+      74: 6691351072964768592
+    second: C005|big_chair|Take 001|BaseLayer
+  - first:
+      74: 2812961764901081653
+    second: C005|C001|Take 001|BaseLayer
+  - first:
+      74: -4106958545978583538
+    second: C005|C002|Take 001|BaseLayer
+  - first:
+      74: -5719850543335014640
+    second: C005|C003|Take 001|BaseLayer
+  - first:
+      74: 1600683095408959651
+    second: C005|C004|Take 001|BaseLayer
+  - first:
+      74: 5470101978583708886
+    second: C005|C005|Take 001|BaseLayer
+  - first:
+      74: -9067900394024340610
+    second: C005|C006|Take 001|BaseLayer
+  - first:
+      74: -6578078329534947266
+    second: C005|VRayIES_Wall_Small|Take 001|BaseLayer
+  - first:
+      74: -3595345326710791837
+    second: C005|VRaySun001|Take 001|BaseLayer
+  - first:
+      74: 5844657357019968767
+    second: VRayIES_Wall_Small|big_chair001|Take 001|BaseLayer
+  - first:
+      74: 3316985984607641658
+    second: VRayIES_Wall_Small|big_chair|Take 001|BaseLayer
+  - first:
+      74: -1544284717755703373
+    second: VRayIES_Wall_Small|C001|Take 001|BaseLayer
+  - first:
+      74: -522271968203837153
+    second: VRayIES_Wall_Small|C002|Take 001|BaseLayer
+  - first:
+      74: 8931145383923703920
+    second: VRayIES_Wall_Small|C003|Take 001|BaseLayer
+  - first:
+      74: 5509918916934475575
+    second: VRayIES_Wall_Small|C004|Take 001|BaseLayer
+  - first:
+      74: 2560033461308399222
+    second: VRayIES_Wall_Small|C005|Take 001|BaseLayer
+  - first:
+      74: 3625956402554543632
+    second: VRayIES_Wall_Small|C006|Take 001|BaseLayer
+  - first:
+      74: -1214352042594341568
+    second: VRayIES_Wall_Small|VRayIES_Wall_Small|Take 001|BaseLayer
+  - first:
+      74: 5137848433272463049
+    second: VRayIES_Wall_Small|VRaySun001|Take 001|BaseLayer
+  - first:
+      74: 4487553644914611570
+    second: C006|big_chair001|Take 001|BaseLayer
+  - first:
+      74: -1214420651871148660
+    second: C006|big_chair|Take 001|BaseLayer
+  - first:
+      74: 8644703290005778582
+    second: C006|C001|Take 001|BaseLayer
+  - first:
+      74: -6166558529353534041
+    second: C006|C002|Take 001|BaseLayer
+  - first:
+      74: -4847774895870804021
+    second: C006|C003|Take 001|BaseLayer
+  - first:
+      74: -2996376743314741466
+    second: C006|C004|Take 001|BaseLayer
+  - first:
+      74: -4569280970511738480
+    second: C006|C005|Take 001|BaseLayer
+  - first:
+      74: -8471687477550654182
+    second: C006|C006|Take 001|BaseLayer
+  - first:
+      74: 8991268341731000987
+    second: C006|VRayIES_Wall_Small|Take 001|BaseLayer
+  - first:
+      74: 4111131010397721368
+    second: C006|VRaySun001|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
